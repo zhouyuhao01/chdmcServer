@@ -2,8 +2,12 @@
 
 # dependencies
 static/node_modules
+static/build
 /.pnp
 .pnp.js
+target
+.idea
+src/main/
 
 # testing
 /coverage
@@ -13,6 +17,7 @@ static/node_modules
 
 # misc
 .DS_Store
+
 .env.local
 .env.development.local
 .env.test.local

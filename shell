@@ -1,0 +1,2 @@
+scp demo-0.0.1-SNAPSHOT.jar root@121.40.150.25:/root
+nohup java -jar demo-0.0.1-SNAPSHOT.jar > nohup.out & 2>&1
