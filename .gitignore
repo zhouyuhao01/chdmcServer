@@ -7,7 +7,6 @@ static/build
 .pnp.js
 target
 .idea
-src/main/
 
 # testing
 /coverage
